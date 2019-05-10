@@ -1,6 +1,6 @@
 # Crime Across Northern Calgary
 
-Link to this live website https://mptel11.github.io/simple-page/
+Link to this live website https://mptel11.github.io/DataVizard/
 
 Here is an interactive visualization graph of the total crimes across various communities in the Northern Parts of Calgary
 
